@@ -39,6 +39,7 @@ bld/
 #dist
 appsettings.Development.json
 appsettings.json
+Lab4.db*
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
